@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\GT\AndroidApps\CourtCounter\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\GT\AndroidApps\CourtCounter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_91ee3c931382d0ea8558ce04173fca50c0e4bcd5\classes.dex" />
+    </item>
+    <item
+        jar="C:\GT\AndroidApps\CourtCounter\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\GT\AndroidApps\CourtCounter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_05890c82b00e329d08d6a3b14041bbe7983c14d6\classes.dex" />
+    </item>
+    <item
+        jar="C:\GT\AndroidApps\CourtCounter\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f663e17a0281f3273e9677fb052d46a32ae74619">
+        <dex dex="C:\GT\AndroidApps\CourtCounter\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_daad2d1d620c0935df828d5fa9ea3d46a03d118a\classes.dex" />
+    </item>
+    <item
+        jar="C:\GT\AndroidApps\CourtCounter\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\GT\AndroidApps\CourtCounter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_04247a6a78fad0b017322ade2ae1ca4337aff2f6\classes.dex" />
+    </item>
+    <item
+        jar="C:\GT\AndroidApps\CourtCounter\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\GT\AndroidApps\CourtCounter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_ef939cc79fcdfc8c759a6165aa292a9744641748\classes.dex" />
+    </item>
+    <item
+        jar="C:\GT\AndroidApps\CourtCounter\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\GT\AndroidApps\CourtCounter\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_1b0ac55223f64c16c7e5c0bca6cdc20db5840364\classes.dex" />
+    </item>
+    <item
+        jar="C:\GT\AndroidApps\CourtCounter\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\GT\AndroidApps\CourtCounter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_9df439d4eb08b08f8fdff27e2d1ab15a484d6a08\classes.dex" />
+    </item>
+    <item
+        jar="C:\GT\AndroidApps\CourtCounter\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\GT\AndroidApps\CourtCounter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_11fad3b819ecc6f444c2cddf0b4deb79f800b00a\classes.dex" />
+    </item>
+    <item
+        jar="C:\GT\AndroidApps\CourtCounter\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="07ab3ba9ee732d07eb9acd7facc6000103cc33b6">
+        <dex dex="C:\GT\AndroidApps\CourtCounter\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_2b72c26073d13cba611147285fc4f6917f5d4da8\classes.dex" />
+    </item>
+    <item
+        jar="C:\GT\AndroidApps\CourtCounter\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\GT\AndroidApps\CourtCounter\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_32cb67a0ac8f3d7853d49d84a49d238ec429b773\classes.dex" />
+    </item>
+    <item
+        jar="C:\GT\AndroidApps\CourtCounter\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\GT\AndroidApps\CourtCounter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_2cd6448d8bf43f26f04e1e547177fa810efbe1fe\classes.dex" />
+    </item>
+    <item
+        jar="C:\GT\AndroidApps\CourtCounter\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\GT\AndroidApps\CourtCounter\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_7e29bdb2376a237729dcaf0d87f598e7c0752725\classes.dex" />
+    </item>
+    <item
+        jar="C:\GT\AndroidApps\CourtCounter\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\GT\AndroidApps\CourtCounter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_6dc2ed6a78ba3a7dd9780754ad012a597803b6ee\classes.dex" />
+    </item>
+    <item
+        jar="C:\GT\AndroidApps\CourtCounter\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\GT\AndroidApps\CourtCounter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_82b9206b1aceaa651bdd893ee47559997c8b511d\classes.dex" />
+    </item>
+    <item
+        jar="C:\GT\AndroidApps\CourtCounter\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\GT\AndroidApps\CourtCounter\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_c9d899c2ab9480629aef25841cd9d7959be6828d\classes.dex" />
+    </item>
+    <item
+        jar="C:\GT\AndroidApps\CourtCounter\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\GT\AndroidApps\CourtCounter\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_5fdac4e2290baf4c8ec6192d86e42fea04905331\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\PT3\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\GT\AndroidApps\CourtCounter\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_dae64762b3c6277e761ccbb188ed3aca15f28be8\classes.dex" />
+    </item>
+
+</items>
